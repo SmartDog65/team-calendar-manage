@@ -1,0 +1,27 @@
+{
+  "name": "team-calendar-manage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartDog65/team-calendar-manage.git"
+  },
+  "keywords": [
+    "team",
+    "manage",
+    "calendar"
+  ],
+  "author": "SmartDog65",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartDog65/team-calendar-manage/issues"
+  },
+  "homepage": "https://github.com/SmartDog65/team-calendar-manage#readme",
+  "dependencies": {
+    "googleapis": "^150.0.1"
+  }
+}
